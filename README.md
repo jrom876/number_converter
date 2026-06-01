@@ -1,2 +1,2 @@
 # number_converter
-Universal Binary/octal/decimal/headecimal converter tgat removes spaces
+Universal binary/octal/decimal/headecimal converter that removes spaces between numbers
